@@ -7,7 +7,9 @@
 }
 
 body {
-    /* background-image: url(bura ozunuz link qoyarsiz); */
+    background-image: url("https://i.ytimg.com/vi/BwBhaQoiV94/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
 }
 
